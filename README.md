@@ -20,6 +20,14 @@ Should you decide to add another time unit to the solution, it would be enough t
 ## Requirements
 Node environment
 
+## Building
+I've packed the solution with its dependencies.
+It is possible to rebuild it by running these commands:
+```
+npm i
+npm run build
+```
+
 ## Running
 You can use the start.sh script in order to run the solution. <br />
 I have also added a test file named 'testCron', which contains the use cases from the example.
